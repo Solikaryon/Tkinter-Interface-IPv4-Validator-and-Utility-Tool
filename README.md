@@ -507,7 +507,7 @@ Possible improvements:
 
 ## Author
 
-**Monjaraz Briseno Luis Fernando**
+**Monjaraz Briseño Luis Fernando**
 
 Created: September 29, 2023
 
@@ -543,3 +543,4 @@ python "Tkinter Interface.py"
 ---
 
 For questions, issues, or contributions, please contact the author.
+
